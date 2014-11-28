@@ -1,0 +1,18 @@
+{
+  "name": "basalJS",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lzf0402/basalJS",
+  "authors": [
+    "phoenixLu<lzf0402@gmail.com>"
+  ]
+  "license": "MIT",
+  "ignore": [
+    ".*"
+  ],
+  "description": "A base javascript tool for simple web pages",
+  "keywords": [
+    "base",
+    "javascript",
+    "tool"
+  ]
+}
